@@ -1,0 +1,20 @@
+{
+  "name": "root/knapsack-problem",
+  "description": "Knapsack problem",
+  "authors": [
+    {
+        "name": "Piotr Czerwiński",
+        "email": "pwkczerwinski@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^7.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src/calculator/Calculator.php",
+      "src"
+    ]
+  }
+}
